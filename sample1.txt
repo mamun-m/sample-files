@@ -8,3 +8,4 @@ git second branch is working now .
 second brand is working now.
  featured1 is working now .
 git featured2 is working here look it .
+git featured3 is right position stand .
